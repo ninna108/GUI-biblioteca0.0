@@ -1,0 +1,15 @@
+# Ignorar arquivos e pastas do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignorar o banco de dados SQLite
+biblioteca.db
+
+# Ignorar ambientes virtuais
+venv/
+env/
+
+# Ignorar arquivos de configuração do IDE
+*.idea/
+*.vscode/
