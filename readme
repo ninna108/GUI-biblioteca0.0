@@ -1,0 +1,35 @@
+# Sistema de Biblioteca
+
+Este projeto é um sistema de gerenciamento de biblioteca simples, desenvolvido em Python, que utiliza SQLite como banco de dados e Tkinter para a interface gráfica. O sistema permite adicionar autores, livros e gerenciar empréstimos.
+
+## Funcionalidades
+
+- **Adicionar Autores**: Registre novos autores com nome e nacionalidade.
+- **Adicionar Livros**: Adicione livros, associando-os a autores.
+- **Registrar Empréstimos**: Registre empréstimos de livros, incluindo informações do usuário.
+- **Visualizar Dados**: Visualize listas de autores, livros e empréstimos.
+
+## Tecnologias Utilizadas
+
+- **Python 3**: Linguagem de programação utilizada.
+- **SQLite**: Banco de dados leve para armazenar informações.
+- **Tkinter**: Biblioteca para a criação da interface gráfica.
+
+## Requisitos
+
+Certifique-se de ter o Python 3 instalado em seu sistema. Para instalar, você pode visitar o [site oficial do Python](https://www.python.org/downloads/).
+
+## Como Executar
+
+1. Clone o repositório:
+
+   git clone https://github.com/seu_usuario/sistema-biblioteca.git
+Navegue até o diretório do projeto:
+cd sistema-biblioteca
+Execute o script principal:
+python main.py
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Licença
+Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
